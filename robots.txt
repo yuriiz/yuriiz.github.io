@@ -1,0 +1,4 @@
+Sitemap: https://yuriiz.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: yuriiz.github.io
