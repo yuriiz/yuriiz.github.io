@@ -24,7 +24,7 @@ SITE_URL = "https://yuriiz.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://yuriiz.github.io/"
-BLOG_EMAIL = "yurii.zolotko@pm.me"
+BLOG_EMAIL = "yurii.zolotko@gmail.com"
 BLOG_DESCRIPTION = "Personal Blog"  # (translatable)
 
 # Nikola is multilingual!
