@@ -6,15 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://yuriiz.github.io/galleries/rss.xml</loc>
-  <lastmod>2021-05-23T18:15:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://yuriiz.github.io/rss.xml</loc>
-  <lastmod>2021-05-23T18:10:00Z</lastmod>
+  <lastmod>2021-05-24T06:48:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://yuriiz.github.io/sitemap.xml</loc>
-  <lastmod>2021-05-23T18:15:00Z</lastmod>
+  <lastmod>2021-05-24T06:48:00Z</lastmod>
  </sitemap>
 </sitemapindex>
